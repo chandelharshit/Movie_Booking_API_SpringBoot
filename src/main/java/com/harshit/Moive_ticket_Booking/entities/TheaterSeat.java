@@ -1,6 +1,6 @@
 package com.harshit.Moive_ticket_Booking.entities;
 
-import com.jts.movie.enums.SeatType;
+import com.harshit.Moive_ticket_Booking.enums.SeatType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
